@@ -1,0 +1,1 @@
+web: gunicorn intern_dashboard_project.wsgi --log-file - 
